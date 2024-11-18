@@ -1,0 +1,13 @@
+nav ul{
+    list-style: none;
+    border: none;
+
+}
+li{
+    float: left;
+}
+.a1{
+    margin: 5px;
+    padding: 10px;
+    background-color: plum;
+}

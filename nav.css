@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+   
+}
+.main{
+    
+    padding: 0px;
+    margin: 0px;
+    
+    
+}
+nav {
+    background-color: rgba(218, 231, 230, 0.8);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 4vw;
+    border: 4px;
+}
+list{
+    display: flex;
+    gap: 1.5vw;
+    margin-right: 6px;
+}
+h1{
+    font-size: 3vw;
+}
+body{
+    background-color:rgba(14, 136, 108, 0.8) ;
+}
+.body{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    font-size: 100px;
+}
+.btn{
+    text-align: center;
+}
+button{
+    
+    padding: 10px;
+    border-radius: 16px;
+    align-items: center;
+    background: red;
+    color: cornsilk;
+}

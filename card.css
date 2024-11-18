@@ -1,0 +1,56 @@
+img{
+    width: 170px;
+    height: 150px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.card{
+    border: 2px black solid;
+    border-radius: 10px;
+    width: 170px;
+    height: 310px;
+    box-shadow: 3px 3px rgba(0, 0, 0, 0.353);
+}
+.container{
+    text-align: center;
+}
+.desg{
+    text-align: center;
+}
+.btn{
+    text-align: center;
+}
+.card:hover{
+    box-shadow: 3px 3px rgba(0, 0, 0, 0.825);
+}
+.xyz{
+    margin-top: 20px;
+}
+
+.campus {
+    float: left;
+    background: cornsilk;
+    width: 33%;
+    height: 200px;
+    margin: 2px;
+}
+
+.notice{
+    float: left;
+    background:cadetblue;
+    width: 33%;
+    height: 200px;
+    margin: 2px;
+}
+
+.events {
+    float: left;
+    background: cornsilk;
+    width: 33%;
+    height: 200px;
+    margin: 2px;
+}
+h4{
+    text-align: center;
+}
+
